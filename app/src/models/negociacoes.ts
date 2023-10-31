@@ -1,4 +1,3 @@
-import { logarTempoDeExecucao } from "../decorators/logar-tempo-de-execucao.js";
 import { Negociacao } from "./negociacao.js";
 
 export class Negociacoes {
