@@ -7,7 +7,7 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
         step((generator = generator.apply(thisArg, _arguments || [])).next());
     });
 };
-import { Negociacao } from "../models/negociacao";
+import { Negociacao } from "../models/negociacao.js";
 export class NegociacoesService {
     obterNegociacoesDoDia() {
         return __awaiter(this, void 0, void 0, function* () {
